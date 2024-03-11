@@ -83,6 +83,8 @@ section{
     max-width: 100%;
     width: 600px;
     height: auto;
+    background-origin: padding-box;
+    filter: drop-shadow(200px 100px 200px rgb(189, 243, 103));
 }
 .home-text h1{
     font-size: 5rem;
